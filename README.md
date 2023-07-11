@@ -19,8 +19,8 @@ The steps and concepts used are:
 ### 5. Create a GUI
 
 <h2>Preview:</h2><br>
-<img width="368" alt="image" src="https://github.com/Raiza-02/Chat-bot/assets/89463672/6716c2dd-0dbc-480f-93e4-8154ab5bef13">
-<img width="353" alt="image" src="https://github.com/Raiza-02/Chat-bot/assets/89463672/d7bcd194-508d-4de6-a5e7-c4fea9b80fc7">
+<img width="350" alt="image" src="https://github.com/Raiza-02/Chat-bot/assets/89463672/6716c2dd-0dbc-480f-93e4-8154ab5bef13">
+<img width="350" alt="image" src="https://github.com/Raiza-02/Chat-bot/assets/89463672/d7bcd194-508d-4de6-a5e7-c4fea9b80fc7">
 
 
 
